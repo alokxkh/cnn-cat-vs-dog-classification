@@ -1,6 +1,6 @@
-# 🐱🐶 Cat vs Dog Image Classification using CNN
+#  Cat vs Dog Image Classification using CNN
 
-## 📌 Project Overview
+##  Project Overview
 
 This project implements a **Convolutional Neural Network (CNN)** to classify images as **cats** or **dogs** using TensorFlow and Deep Learning techniques.
 
@@ -8,7 +8,7 @@ The model learns visual features such as edges, textures, and shapes to accurate
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Build a CNN model for binary image classification
 * Classify images into **Cat** or **Dog**
@@ -17,9 +17,9 @@ The model learns visual features such as edges, textures, and shapes to accurate
 
 ---
 
-## 🧠 Technologies Used
+##  Technologies Used
 
-* Python 🐍
+* Python 
 * TensorFlow / Keras
 * TensorFlow Datasets
 * Google Colab
@@ -27,7 +27,7 @@ The model learns visual features such as edges, textures, and shapes to accurate
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 Dataset used: **Cats vs Dogs** from TensorFlow Datasets.
 
@@ -35,7 +35,7 @@ It contains thousands of labeled images of cats and dogs for training and valida
 
 ---
 
-## 🏗️ Model Architecture
+##  Model Architecture
 
 The CNN model includes:
 
@@ -48,7 +48,7 @@ The CNN model includes:
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 1. Load dataset using TensorFlow Datasets
 2. Resize and normalize images
@@ -58,28 +58,28 @@ The CNN model includes:
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
-### 1️⃣ Clone the repository
+###  Clone the repository
 
 ```bash
 git clone https://github.com/alokk2005/cnn-cat-vs-dog-classification.git
 cd cnn-cat-vs-dog-classification
 ```
 
-### 2️⃣ Install dependencies
+###  Install dependencies
 
 ```bash
 pip install tensorflow tensorflow-datasets
 ```
 
-### 3️⃣ Run the notebook
+###  Run the notebook
 
 Open the notebook in **Google Colab** and run all cells.
 
 ---
 
-## 📊 Results
+##  Results
 
 * Training Accuracy: ~90%
 * Validation Accuracy: ~85–90%
@@ -87,16 +87,16 @@ Open the notebook in **Google Colab** and run all cells.
 
 ---
 
-## 📸 Sample Output
+##  Sample Output
 
 The model predicts:
 
-* 🐱 Cat
-* 🐶 Dog
+*  Cat
+*  Dog
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Use Transfer Learning (VGG16, ResNet)
 * Deploy as a web app
@@ -104,13 +104,17 @@ The model predicts:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Alok**
 B.Tech Student | Deep Learning Enthusiast
 
+##  Co-Authored By
+
+**AYIKxD**
+B.tech Student | Android Developer
 ---
 
-## ⭐ If you like this project
+##  If you like this project
 
-Give it a ⭐ on GitHub!
+Give it a  on GitHub!
